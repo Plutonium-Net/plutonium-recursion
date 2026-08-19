@@ -13,9 +13,9 @@ The foundation required to run an independent browser environment inside a host 
 
 * [x] Establish the plutonium-recursion project
 * [x] C++ core
-* [x] WebAssembly compilation
+* [ ] WebAssembly compilation
 * [x] Browser UI foundation
-* [ ] Establish the core browser architecture
+* [x] Establish the core browser architecture
 * [ ] Implement the internal browser process model
 * [ ] Implement internal networking
 * [ ] Establish the internal rendering pipeline
