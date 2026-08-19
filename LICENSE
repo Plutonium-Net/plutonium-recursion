@@ -1,16 +1,17 @@
-# Plutonium Recursion License (PRL) v1.0
+PLUTONIUM RECURSION LICENSE (PRL) v1.0
 
-Copyright (c) 2026 Plutonium-Net 
+Copyright (c) 2026 Plutonium-Net
+Original Developers: xXmizzeryXx and Craf1ed
 
-## 1. Permission
+1. PERMISSION
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the software and associated source code (the "Software"), to use, copy, modify, fork, and redistribute the Software, subject to the conditions stated in this License.
 
-## 2. Restrictions
+2. RESTRICTIONS
 
-The following restrictions apply:
+The following restrictions apply.
 
-### 2.1 Non-Commercial Use
+2.1 NON-COMMERCIAL USE
 
 The Software may not be used for commercial purposes.
 
@@ -22,19 +23,23 @@ This includes, but is not limited to:
 * Charging users for access to the Software or a modified version of it.
 * Using the Software primarily to generate commercial revenue.
 
-### 2.2 No Incorporation Into Other Projects
+2.2 NO INCORPORATION INTO OTHER PROJECTS
 
 The Software, or substantial portions of its source code, may not be incorporated into another software project, product, application, library, or service.
 
 Forks and modified versions of the Software are permitted, provided that they remain identifiable as derivatives of this Software and comply with this License.
 
-### 2.3 Attribution
+2.3 ATTRIBUTION
 
-Redistributions and modified versions must provide clear and reasonable attribution to **plutonium-recursion**.
+Redistributions and modified versions must provide clear and reasonable attribution to Plutonium-Net, xXmizzeryXx, and Craf1ed.
+
+Attribution must include the GitHub usernames xXmizzeryXx and Craf1ed, as well as the Plutonium-Net organization name.
+
+Attribution may be provided in documentation, a credits file, an "About" section, a repository description, or another reasonably visible location accompanying the Software.
 
 Attribution must not imply that the original authors endorse, sponsor, or officially support the modified or redistributed version.
 
-### 2.4 Third-Party Assets
+2.4 THIRD-PARTY ASSETS
 
 Any third-party assets included in, distributed with, or taken from the Software must retain appropriate attribution and licensing information.
 
@@ -54,9 +59,9 @@ If you redistribute or modify the Software while retaining third-party assets, y
 
 This License does not grant ownership or additional rights to third-party assets.
 
-### 2.5 Modified Version Naming
+2.5 MODIFIED VERSION NAMING
 
-Modified or derivative versions of the Software must use a name that is clearly distinguishable from the official **plutonium-recursion** project.
+Modified or derivative versions of the Software must use a name that is clearly distinguishable from the official plutonium-recursion project.
 
 Modified versions may not:
 
@@ -67,29 +72,29 @@ Modified versions may not:
 
 Forks may retain references to plutonium-recursion for attribution and to identify their origin.
 
-## 3. Redistribution
+3. REDISTRIBUTION
 
 You may redistribute the original or modified Software, provided that:
 
 1. This License is included with the distribution.
-2. Required attribution is preserved.
+2. Required attribution to Plutonium-Net, xXmizzeryXx, and Craf1ed is preserved.
 3. Third-party asset licenses and attribution notices are preserved.
 4. Modified versions comply with the naming requirements in Section 2.5.
 5. The recipient is not given rights that conflict with this License.
 
 You may not impose additional restrictions that remove rights granted by this License.
 
-## 4. Source Code
+4. SOURCE CODE
 
 When redistributing a modified version of the Software, reasonable access to the modified source code must be provided to recipients.
 
 The source code may not be intentionally withheld, obfuscated, or otherwise made unavailable for the purpose of circumventing this requirement.
 
-## 5. No Endorsement
+5. NO ENDORSEMENT
 
-The names, trademarks, logos, branding, and other identifying marks associated with **plutonium-recursion** may not be used to endorse, advertise, or imply official affiliation with a modified or redistributed version without explicit permission.
+The names, trademarks, logos, branding, and other identifying marks associated with plutonium-recursion, Plutonium-Net, xXmizzeryXx, or Craf1ed may not be used to endorse, advertise, or imply official affiliation with a modified or redistributed version without explicit permission.
 
-## 6. Copyright
+6. COPYRIGHT
 
 The Software and its original components remain protected by applicable copyright law.
 
@@ -97,32 +102,31 @@ This License does not transfer ownership of the Software or its original compone
 
 Contributors retain copyright to their original contributions unless otherwise agreed.
 
-## 7. Warranty Disclaimer
+7. WARRANTY DISCLAIMER
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
 
-THE AUTHORS AND COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+IN NO EVENT SHALL PLUTONIUM-NET, XXMIZZERYXX, CRAFI1ED, OR ANY CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
 
-## 8. Acceptance
+8. ACCEPTANCE
 
 By using, copying, modifying, forking, or redistributing the Software, you agree to the terms and conditions of this License.
 
 If you do not agree to these terms, you may not use, copy, modify, fork, or redistribute the Software.
 
-## 9. Termination
+9. TERMINATION
 
 Any rights granted under this License automatically terminate if you violate its terms.
 
 Upon termination, you must cease use and redistribution of the Software unless and until you are otherwise authorized by the copyright holder.
 
-## 10. License Version
+10. LICENSE VERSION
 
-This License is **Plutonium Recursion License (PRL) v1.0**.
+This License is Plutonium Recursion License (PRL) v1.0.
 
 The copyright holder may publish future versions of this License. Unless explicitly stated otherwise, projects distributed under PRL v1.0 remain governed by PRL v1.0.
 
----
-
-**Project:** plutonium-recursion
-**License:** Plutonium Recursion License (PRL) v1.0
-**Copyright:** © 2026 Plutonium-Net
+Project: plutonium-recursion
+License: Plutonium Recursion License (PRL) v1.0
+Copyright: © 2026 Plutonium-Net
+Original Developers: xXmizzeryXx, Craf1ed
