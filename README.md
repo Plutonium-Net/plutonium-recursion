@@ -238,6 +238,6 @@ See [`LICENSE`](LICENSE) for the complete terms.
 
 **plutonium-recursion**
 
-*An entire browser. Inside your browser.*
+  *An entire browser. Inside your browser.*
 
 </div>
