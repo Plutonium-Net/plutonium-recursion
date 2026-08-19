@@ -40,9 +40,9 @@ plutonium-recursion flips that idea around:
 │   │   ┌──────────────────────────────┐   │   │
 │   │   │      Browser Engine          │   │   │
 │   │   │                              │   │   │
-│   │   │      Web Pages              │   │   │
-│   │   │      Navigation             │   │   │
-│   │   │      Browser Features       │   │   │
+│   │   │      Web Pages               │   │   │
+│   │   │      Navigation              │   │   │
+│   │   │      Browser Features        │   │   │
 │   │   │                              │   │   │
 │   │   └──────────────────────────────┘   │   │
 │   │                                      │   │
