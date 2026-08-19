@@ -190,7 +190,9 @@ Development focuses on improving:
 
 ## 🚗 Roadmap
 
-The official roadmap for the 2026 year is located at ['Roadmap'](ROADMAP.MD)
+The official roadmap for the 2026 year is located at ['ROADMAP.MD'](Roadmap).
+
+---
 
 ## 🤝 Contributing
 
